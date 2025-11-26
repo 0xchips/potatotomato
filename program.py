@@ -1,4 +1,4 @@
 import math
 
 print(pow(3,6))
-print('Hello')
+print('potato')
