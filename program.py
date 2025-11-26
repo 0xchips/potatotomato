@@ -1,3 +1,3 @@
 import math
 
-print(pow(3,6))
+print(pow(1,6))
